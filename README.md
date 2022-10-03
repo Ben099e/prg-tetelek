@@ -1,1 +1,1 @@
-# prg-tetelek
+# programozási tételek megvalósítása
